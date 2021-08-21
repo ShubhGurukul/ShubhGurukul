@@ -153,13 +153,13 @@
 
 ## 🙋‍♀️ Let's Connect
 <p align="center">
-  <a href="https://twitter.com/shubham62684823"><img src="<img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
+  <a href="https://twitter.com/ShubhGurukul"><img src="<img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
 	<a href="mailto:to.shubhamofficial@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/ShubhGurukul"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://linkedin.com/in/shubham-tiwari-118399195"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.facebook.com/shubhgurukul"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
 	<a href="https://instagram.com/shubhgurukul"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	<a href="https://www.youtube.com/channel/ucxqvnvskcvtzds5sfw3nhgg"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a>
+	<a href="https://www.youtube.com/channel/UCXqvNVsKCvtzDS5SfW3NHGg"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a>
 	
 </p>
 
