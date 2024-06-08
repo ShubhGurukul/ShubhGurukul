@@ -4,7 +4,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;App+Developer+with+kivy+Flutter;DS%20|%20AI%20|%20ML%20Enthusiast;Computer%20Vision%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center">I am a Junior at Thapar Institute of Engineering & Technology pursuing B.E. in CSE. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
+<h4 align="center">Currently working with Ericsson Global India Pvt. Ltd. as a Software Developer on google-cloud infra & microservice. Started in Jan. 2023 and  I have pursued B.E. in CSE from Thapar Institute of Engineering & Technology. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ShubhGurukul&label=Profile%20views&color=0e75b6&style=plastic" alt="ShubhGurukul" /> </p>
 
